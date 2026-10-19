@@ -1,0 +1,16 @@
+{
+  "forms": ["8-K", "DEF 14A"],
+  "companies": [
+    {"name": "Nvidia", "ticker": "NVDA"},
+    {"name": "AMD", "ticker": "AMD"},
+    {"name": "Meta", "ticker": "META"},
+    {"name": "Amazon", "ticker": "AMZN"},
+    {"name": "Tesla", "ticker": "TSLA"},
+    {"name": "Strategy", "ticker": "MSTR"},
+    {"name": "Robinhood", "ticker": "HOOD"},
+    {"name": "DeFi Development Corp", "ticker": "DFDV"},
+    {"name": "Upexi", "ticker": "UPXI"},
+    {"name": "Forward Industries", "ticker": "FWDI"},
+    {"name": "SpaceX", "ticker": "SPCX", "cik": 1181412}
+  ]
+}
